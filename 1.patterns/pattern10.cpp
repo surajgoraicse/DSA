@@ -11,6 +11,8 @@ int main(){
     cin >> n;
     for (int i = 1; i <= 2 * n; i++){
         // let key = 
-        for (int j = 1; j<)
+        for (int j = 1; j<){
+            
+        }
     }
 }
